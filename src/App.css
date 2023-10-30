@@ -23,9 +23,9 @@
     'four five six subtract'
     'one two three add'
     'zero zero decimal equals';
-  grid-template-columns: 100px 100px 100px 100px;
+  grid-template-columns: 90px 90px 90px 90px;
   gap: 20px;
-  padding: 50px;
+  padding: 10px 30px 30px;
   padding-top: 10px;
   margin-top: 20px;
   border-radius: 20px;
@@ -47,7 +47,7 @@
 }
 
 button {
-  height: 100px;
+  height: 90px;
   font-size: 24px;
   border: none;
   cursor: pointer;
